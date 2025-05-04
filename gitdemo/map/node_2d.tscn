@@ -8,3 +8,23 @@
 position = Vector2(204, 394)
 scale = Vector2(0.610156, 0.62478)
 texture = ExtResource("1_ww0is")
+
+[node name="发财2" type="Sprite2D" parent="."]
+position = Vector2(1005, -206)
+scale = Vector2(0.610156, 0.62478)
+texture = ExtResource("1_ww0is")
+
+[node name="发财3" type="Sprite2D" parent="."]
+position = Vector2(2059, 796)
+scale = Vector2(0.610156, 0.62478)
+texture = ExtResource("1_ww0is")
+
+[node name="发财4" type="Sprite2D" parent="."]
+position = Vector2(854, 1172)
+scale = Vector2(0.610156, 0.62478)
+texture = ExtResource("1_ww0is")
+
+[node name="发财5" type="Sprite2D" parent="."]
+position = Vector2(2135, -275)
+scale = Vector2(0.610156, 0.62478)
+texture = ExtResource("1_ww0is")
