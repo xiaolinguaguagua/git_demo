@@ -5,16 +5,6 @@
 [node name="Node2D" type="Node2D"]
 
 [node name="发财" type="Sprite2D" parent="."]
-position = Vector2(445, 71)
-scale = Vector2(0.610156, 0.62478)
-texture = ExtResource("1_ww0is")
-
-[node name="发财2" type="Sprite2D" parent="."]
-position = Vector2(1341, 59)
-scale = Vector2(0.610156, 0.62478)
-texture = ExtResource("1_ww0is")
-
-[node name="发财3" type="Sprite2D" parent="."]
-position = Vector2(736, 1228)
+position = Vector2(204, 394)
 scale = Vector2(0.610156, 0.62478)
 texture = ExtResource("1_ww0is")
